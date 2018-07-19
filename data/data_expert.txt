@@ -1,0 +1,71 @@
+%% To comment, use the two tags (%%)
+%% see https://airccj.org/CSCP/vol3/csit3641.pdf
+%% and https://preserve.lehigh.edu/cgi/viewcontent.cgi?article=1106&context=etd
+
+%% Written on 19 July 2018 by Mohamed Emad
+%% This was set up in January of the same year
+%% The rule shall be separated from the decision by the following two marks
+
+%% The rule :: Decision taken
+
+temperature 50 :: heater 300
+temperature 156 :: heater 1221
+temperature 36 :: heater 820
+temperature 129 :: heater 115
+temperature 166 :: heater 1124
+temperature 136 :: heater 776
+temperature 88 :: heater 409
+temperature 148 :: heater 264
+temperature 192 :: heater 925
+temperature 20 :: heater 574
+temperature 64 :: heater 176
+temperature 96 :: heater 511
+temperature 200 :: heater 933
+temperature 69 :: heater 408
+temperature 81 :: heater 1247
+temperature 161 :: heater 414
+temperature 104 :: heater 447
+temperature 72 :: heater 1221
+temperature 108 :: heater 299
+temperature 159 :: heater 248
+temperature 26 :: heater 758
+temperature 68 :: heater 88
+temperature 65 :: heater 1089
+temperature 59 :: heater 683
+temperature 107 :: heater 374
+temperature 44 :: heater 694
+temperature 156 :: heater 298
+temperature 83 :: heater 689
+temperature 115 :: heater 828
+temperature 51 :: heater 870
+temperature 11 :: heater 394
+temperature 153 :: heater 101
+temperature 110 :: heater 1107
+temperature 144 :: heater 353
+temperature 157 :: heater 1291
+temperature 37 :: heater 942
+temperature 109 :: heater 1060
+temperature 38 :: heater 146
+temperature 178 :: heater 1075
+temperature 22 :: heater 371
+temperature 38 :: heater 362
+temperature 90 :: heater 1068
+temperature 69 :: heater 575
+temperature 33 :: heater 634
+temperature 133 :: heater 574
+temperature 107 :: heater 184
+temperature 154 :: heater 1283
+temperature 170 :: heater 1087
+temperature 183 :: heater 164
+temperature 156 :: heater 884
+temperature 81 :: heater 506
+temperature 123 :: heater 349
+temperature 104 :: heater 1116
+temperature 32 :: heater 148
+temperature 177 :: heater 138
+temperature 134 :: heater 937
+temperature 165 :: heater 866
+temperature 53 :: heater 935
+temperature 136 :: heater 520
+temperature 93 :: heater 206
+temperature 49 :: heater 609
